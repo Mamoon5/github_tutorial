@@ -1,2 +1,2 @@
 # github_tutorial
-Tutorials
+Tutorials for github
